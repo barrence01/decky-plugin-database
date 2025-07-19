@@ -282,3 +282,6 @@
 [submodule "plugins/LetMeReShade"]
 	path = plugins/LetMeReShade
 	url = https://github.com/itsOwen/LetMeReShade.git
+[submodule "plugins/new-decky-filebrowser-plugin"]
+	path = plugins/new-decky-filebrowser-plugin
+	url = https://github.com/barrence01/new-decky-filebrowser-plugin.git
