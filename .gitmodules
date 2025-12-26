@@ -302,3 +302,7 @@
 	path = plugins/MuraDeck
 	url = https://github.com/Moonveil-Kanata/MuraDeck.git
 	branch = main
+[submodule "plugins/decky-file-explorer"]
+	path = plugins/decky-file-explorer
+	url = https://github.com/barrence01/decky-file-explorer.git
+	branch = main
